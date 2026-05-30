@@ -18,21 +18,21 @@ The design includes RTL implementation and a testbench for functional verificati
 
 
 
-\# Features
+\## Features
 
 
 
-\* 8-bit data width
+\- 8-bit data width
 
-\* 8 memory locations
+\- 8 memory locations
 
-\* Separate read and write addressing
+\- Separate read and write addressing
 
-\* Synchronous write operation
+\- Synchronous write operation
 
-\* Reset functionality
+\- Reset functionality
 
-\* Behavioral simulation verification
+\- Behavioral simulation verification
 
 
 
@@ -40,13 +40,11 @@ The design includes RTL implementation and a testbench for functional verificati
 
 
 
-\# Tools Used
+\## Tools Used
 
 
 
-\* Intel Quartus Prime
+\- Intel Quartus Prime
 
-\* ModelSim
-
-
+\- ModelSim
 

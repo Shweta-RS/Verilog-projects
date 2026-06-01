@@ -1,8 +1,8 @@
-\# 8×8 FIFO Design Using Verilog HDL
+# 8×8 FIFO Design Using Verilog HDL
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,35 +14,47 @@ The design consists of separate modules for write control, FIFO memory implement
 
 
 
-\---
+---
 
 
 
-\## Features
+## Features
 
 
 
-\* 8-bit data width
-
-\* FIFO depth of 8 locations
-
-\* Synchronous read and write operations
-
-\* Full flag generation
-
-\* Empty flag generation
-
-\* Separate control modules for read and write operations
-
-\* Behavioral simulation verification
+* 8-bit data width
 
 
 
-\---
+* FIFO depth of 8 locations
 
 
 
-\## Design Architecture
+* Synchronous read and write operations
+
+
+
+* Full flag generation
+
+
+
+* Empty flag generation
+
+
+
+* Separate control modules for read and write operations
+
+
+
+* Behavioral simulation verification
+
+
+
+---
+
+
+
+## Design Architecture
 
 
 
@@ -50,15 +62,13 @@ The overall architecture is:
 
 
 
-```text
+
 
 Data Input → Module A → FIFO → Module B → Output
 
-```
 
 
-
-\### Block Diagram
+### Block Diagram
 
 
 
@@ -66,49 +76,13 @@ Data Input → Module A → FIFO → Module B → Output
 
 
 
-\---
+---
 
 
 
-
-
-\## Tools Used
-
-
-
-\* Xilinx Vivado
+## Tools Used
 
 
 
-
-
-\---
-
-
-
-\## Future Improvements
-
-
-
-\* Parameterized FIFO Design
-
-\* Asynchronous FIFO Implementation
-
-\* SystemVerilog Verification
-
-\* Assertion-Based Verification
-
-
-
-\---
-
-
-
-\## Author
-
-
-
-Shweta
-
-
+* Xilinx Vivado
 

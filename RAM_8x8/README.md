@@ -1,8 +1,8 @@
-\# 8×8 RAM Design Using Verilog HDL
+# 8×8 RAM Design Using Verilog HDL
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,37 +14,37 @@ The design includes RTL implementation and a testbench for functional verificati
 
 
 
-\---
+---
 
 
 
-\## Features
+## Features
 
 
 
-\- 8-bit data width
+* 8-bit data width
 
-\- 8 memory locations
+* 8 memory locations
 
-\- Separate read and write addressing
+* Separate read and write addressing
 
-\- Synchronous write operation
+* Synchronous write operation
 
-\- Reset functionality
+* Reset functionality
 
-\- Behavioral simulation verification
-
-
-
-\---
+* Behavioral simulation verification
 
 
 
-\## Tools Used
+---
 
 
 
-\- Intel Quartus Prime
+## Tools Used
 
-\- ModelSim
+
+
+* Intel Quartus Prime
+
+* ModelSim
 

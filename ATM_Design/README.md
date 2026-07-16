@@ -113,7 +113,7 @@ The proposed ATM controller was successfully synthesized and implemented on the 
 
 ---
 
-## Fig 6.0: Displays Value set in IDLE condition
+## Displays Value set in IDLE condition
 
 <p align="center">
 <img src="Images/Displays Value set in IDLE condition.png" width="550">
@@ -123,7 +123,7 @@ After power-up or reset, the ATM enters the **IDLE** state and displays the defa
 
 ---
 
-## Fig 6.1: Account Number of User 0 (PIN = 010)
+## Account Number of User 0 (PIN = 010)
 
 <p align="center">
 <img src="Images/Account number of User 0 (as PIN 010 is entered).png" width="550">
@@ -133,7 +133,7 @@ When the correct PIN (**010**) is entered, the controller successfully authentic
 
 ---
 
-## Fig 6.2: Initial Balance of User 0
+## Initial Balance of User 0
 
 <p align="center">
 <img src="Images/Initial Balance of User 0.png" width="550">
@@ -143,7 +143,7 @@ After successful authentication, the ATM displays the current account balance of
 
 ---
 
-## Fig 6.3: Deposit ₹200 into User 0 Account
+## Deposit ₹200 into User 0 Account
 
 <p align="center">
 <img src="Images/Deposition of 200 rupees to User 0 account.png" width="550">
@@ -153,7 +153,7 @@ The user selects a deposit amount of **₹200** using the toggle switches and co
 
 ---
 
-## Fig 6.4: Updated Balance
+## Updated Balance
 
 <p align="center">
 <img src="Images/Updated Balance.png" width="550">
@@ -163,7 +163,7 @@ After the deposit operation is completed, the ATM updates the account balance an
 
 ---
 
-## Fig 6.5: Logout (Display Refreshed)
+## Logout (Display Refreshed)
 
 <p align="center">
 <img src="Images/Logout (Display refreshed).png" width="550">

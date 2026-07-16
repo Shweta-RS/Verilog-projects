@@ -210,7 +210,7 @@ This project can be used for:
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/Shweta Sankri/Verilog-projects.git
 ```
 
 2. Open the project in **Intel Quartus Prime**.
